@@ -1,4 +1,4 @@
-# CENG421 File Server
+# CENG421 File Server
 
 In this version of UDP File server users can only see their files in their username path with their password.
 
