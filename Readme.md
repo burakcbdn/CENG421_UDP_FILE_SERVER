@@ -20,7 +20,7 @@ After creating files you want you should first run the server than the client.
 
 Use any C compiler you like to run `file_server.c` file. For example with `gcc compiler` you can use `gcc file_server.c -0 file_server && ./file_server`. After running this command server will wait for requests.
 
-### Running Client
+### Running Client
 
 After you run server, you can run `file_client.c` file for client. You should enter request details as arguments to the command. Again using `gcc compiler` you can run following command to run client in `local ip` to get `test.txt` file for user `burakcbdn` who is password is hopefully `123123` 
 
