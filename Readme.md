@@ -8,7 +8,7 @@ for example, if user `burakcbdn` wants to reach file `a.txt` the file path `bura
 
 for adding new user, open `file_server.c` file, go to function `checkPass` and add username and password to the `userData` array as `username-password` value
 
-## Adding files for user
+## Adding files for user
 
 for adding file for specific user, add user's file to the username path, for example; if you want to make `test.txt` file available for user `test123` put the file to the path `test123/test.txt`
 
